@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  background: black;
+}
+
+h1 {
+  font-size: 1.5rem;
+  color: lightgray;
+}
+
+a {
+  color: lightgrey;
+  text-decoration: none;
+}
